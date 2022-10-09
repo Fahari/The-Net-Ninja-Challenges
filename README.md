@@ -1,3 +1,3 @@
-# Coding-Challenge-challenge-2-solution
+# Coding-challenge-2-solution
 
 
